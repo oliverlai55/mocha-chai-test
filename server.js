@@ -46,4 +46,4 @@ app.listen(port);
 console.log('Listening on port ' + port);
 
 module.exports = app; //for testing
-
+// https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai#a-better-test
